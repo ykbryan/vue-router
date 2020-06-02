@@ -10,6 +10,14 @@
             "StackName": "amplify-vuerouter-dev-141644",
             "StackId": "arn:aws:cloudformation:ap-southeast-1:566416766292:stack/amplify-vuerouter-dev-141644/ade52000-a498-11ea-98f3-02f584878410",
             "AmplifyAppId": "dfbzeylmlfbxj"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dfbzeylmlfbxj",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
