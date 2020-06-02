@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vuerouter-dev-141644-authRole",
+            "UnauthRoleArn": "arn:aws:iam::566416766292:role/amplify-vuerouter-dev-141644-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::566416766292:role/amplify-vuerouter-dev-141644-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-vuerouter-dev-141644-deployment",
+            "UnauthRoleName": "amplify-vuerouter-dev-141644-unauthRole",
+            "StackName": "amplify-vuerouter-dev-141644",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:566416766292:stack/amplify-vuerouter-dev-141644/ade52000-a498-11ea-98f3-02f584878410",
+            "AmplifyAppId": "dfbzeylmlfbxj"
+        }
+    }
+}
